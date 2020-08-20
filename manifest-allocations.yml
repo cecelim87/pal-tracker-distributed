@@ -1,5 +1,5 @@
 applications:
-- name: tracker-allocations
+- name: tracker-allocationss
   path: ./applications/allocations-server/build/libs/allocations-server.jar
   routes:
   - route: allocations-pal-jay-celine-dc.apps.evans.pal.pivotal.io
